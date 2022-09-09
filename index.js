@@ -1,11 +1,6 @@
 /*
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
-𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
-𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
-
 ⫹❰⫺ 𝐵𝐼𝐺 𝑇𝐻𝐴𝑁𝐾𝑆 𝑇𝑂 ⫹❱⫺
 ⭝ 𝑨𝒍𝒍𝒂𝒉 𝒀𝒂𝒏𝒈 𝑴𝒂𝒉𝒂 𝑬𝒔𝒂
 ⭝ 𝑶𝒓𝒂𝒏𝒈 𝑻𝒖𝒂
@@ -276,9 +271,9 @@ CFonts.say('Hyuura\nBotz', {
 })
 CFonts.say(`
 ======================================
-= ∅Lincese Card #                     =
+= ∅License Card #                    =
 =--------------#                     =
-=  Name: Aldi Lesmana                =
+=  Name: Riifuu                      =
 =  Date Projects: 22 Agustus 2022    =
 =  Locale: Indonesian                =
 ======================================
